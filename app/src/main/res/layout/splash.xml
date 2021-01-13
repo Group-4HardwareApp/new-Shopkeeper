@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:paddingTop="200dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:paddingTop="20dp"
+        android:src="@drawable/hardwarelogo1"
+        android:id="@+id/ivLogo"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buy best hardware here."
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:paddingTop="10dp"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/ivLogo"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Version 1.0"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="14sp"/>
+
+
+</RelativeLayout>

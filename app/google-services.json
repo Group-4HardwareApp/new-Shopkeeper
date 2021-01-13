@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60256413631",
+    "project_id": "hardwaremart-9187a",
+    "storage_bucket": "hardwaremart-9187a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60256413631:android:e49047814e01cc3e22630a",
+        "android_client_info": {
+          "package_name": "com.example.hardwaremart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60256413631-mjdvh8antrae2f7i131a8ebipu5bik8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hardwaremart",
+            "certificate_hash": "ab8c26d213f7bb458199b827d0abff27395c1dbf"
+          }
+        },
+        {
+          "client_id": "60256413631-sij4hdr7mp3cekghbg82abb5untaah5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFjepU2GBjzU38wh4DAhxLTl5_nw6zI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60256413631-sij4hdr7mp3cekghbg82abb5untaah5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
